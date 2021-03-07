@@ -1,0 +1,58 @@
+{
+    "elems": {
+        "iter_00000_step_00003_25_android.widget.TextView.png": {
+            "li_reddit_lss_38": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 0.99, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00004_131_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00005_25_android.widget.TextView.png": {
+            "li_reddit_lss_38": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
+                }, 
+                "score": 0.99, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00013_122_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00015_82_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00019_62_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00020_72_android.widget.TextView.png": {
+            "li_add_account": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00020_73_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00021_106_android.view.ViewGroup.png": {
+            "mi_saved": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00021_108_android.widget.TextView.png": {
+            "ttl_saved": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.95
+                }, 
+                "score": 0.95, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00021_52_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00021_65_android.widget.LinearLayout.png": {}, 
+        "iter_00000_step_00023_79_android.widget.ImageView.png": {}
+    }, 
+    "screens": {}
+}

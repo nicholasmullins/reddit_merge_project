@@ -1,0 +1,15 @@
+{
+    "elems": {
+        "iter_00000_step_00004_31_android.widget.ImageButton.png": [
+            "btn_stop_video_capture"
+        ], 
+        "iter_00000_step_00005_32_android.widget.ImageButton.png": [
+            "btn_video_retake"
+        ], 
+        "iter_00000_step_00005_36_android.widget.ImageButton.png": [
+            "btn_video_play"
+        ], 
+        "iter_00000_step_00006_37_android.widget.ImageButton.png": []
+    }, 
+    "screens": {}
+}

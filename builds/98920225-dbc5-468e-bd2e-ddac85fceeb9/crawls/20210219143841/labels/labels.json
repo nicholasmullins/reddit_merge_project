@@ -1,0 +1,9 @@
+{
+    "elems": {
+        "iter_00000_step_00005_56_android.widget.ImageView.png": [], 
+        "iter_00000_step_00009_13_android.widget.Button.png": [
+            "btn_cannot_exceed_fifteen"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,85 @@
+{
+    "elems": {
+        "iter_00000_step_00012_15_android.widget.FrameLayout.png": {
+            "inp_search": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00025_17_android.widget.FrameLayout.png": {
+            "btn_camera_capture": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00025_18_android.widget.ImageView.png": {
+            "btn_camera_capture": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00027_17_android.widget.FrameLayout.png": {
+            "btn_video_capture": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00029_16_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00037_47_android.widget.LinearLayout.png": {
+            "tgl_live_chat_discussion": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00045_36_android.widget.TextView.png": {}, 
+        "iter_00000_step_00062_105_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00062_17_android.widget.TextView.png": {}, 
+        "iter_00000_step_00062_63_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00062_67_android.widget.TextView.png": {}, 
+        "iter_00000_step_00064_31_android.widget.FrameLayout.png": {}, 
+        "iter_00000_step_00079_17_android.widget.TextView.png": {
+            "txt_search": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00079_25_android.widget.LinearLayout.png": {
+            "tab_home": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00079_26_android.widget.TextView.png": {
+            "tab_home": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}

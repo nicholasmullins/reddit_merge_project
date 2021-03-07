@@ -1,0 +1,32 @@
+{
+    "elems": {
+        "iter_00000_step_00001_14_android.widget.Button.png": [
+            "btn_allow"
+        ], 
+        "iter_00000_step_00002_14_android.widget.Button.png": [
+            "btn_allow"
+        ], 
+        "iter_00000_step_00003_15_android.widget.ImageView.png": [
+            "icn_camera_more_options"
+        ], 
+        "iter_00000_step_00003_17_android.widget.FrameLayout.png": [
+            "btn_video_capture"
+        ], 
+        "iter_00000_step_00004_15_android.widget.FrameLayout.png": [
+            "btn_stop_video_capture"
+        ], 
+        "iter_00000_step_00005_17_android.widget.ImageButton.png": [
+            "btn_video_play"
+        ], 
+        "iter_00000_step_00005_19_android.widget.ImageButton.png": [
+            "btn_video_confirm"
+        ], 
+        "iter_00000_step_00005_20_android.widget.ImageButton.png": [
+            "btn_video_retake"
+        ], 
+        "iter_00000_step_00006_9_androidx.appcompat.widget.LinearLayoutCompat.png": [
+            "btn_next"
+        ]
+    }, 
+    "screens": {}
+}

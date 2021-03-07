@@ -1,0 +1,61 @@
+{
+    "elems": {
+        "iter_00000_step_00003_121_android.view.ViewGroup.png": {
+            "icn_reddit_home": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_122_android.widget.ImageView.png": {
+            "icn_reddit_home": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_123_android.view.ViewGroup.png": {
+            "icn_browse": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_124_android.widget.ImageView.png": {
+            "icn_browse": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_128_android.view.ViewGroup.png": {
+            "icn_chat": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_129_android.widget.ImageView.png": {
+            "icn_chat": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_63_android.widget.ImageView.png": {}, 
+        "iter_00000_step_00003_95_android.widget.ImageView.png": {}
+    }, 
+    "screens": {}
+}

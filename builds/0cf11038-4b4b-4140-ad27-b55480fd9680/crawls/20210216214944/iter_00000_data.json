@@ -1,0 +1,16 @@
+{
+    "desiredCaps": {
+        "app": "/Users/bot/test_ai/apps/com_reddit_frontpage_alpha/builds/20210104210132_com_reddit_frontpage_alpha/app/app-alpha-release.apk", 
+        "appPackage": "com.reddit.frontpage.alpha", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "Nexus 5", 
+    "deviceHeight": 1920, 
+    "deviceWidth": 1080, 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}

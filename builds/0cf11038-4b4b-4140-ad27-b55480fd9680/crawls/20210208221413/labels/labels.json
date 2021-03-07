@@ -1,0 +1,197 @@
+{
+    "elems": {
+        "iter_00000_step_00000_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00000_17_android.widget.TextView.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00000_26_android.widget.LinearLayout.png": [
+            "tab_home"
+        ], 
+        "iter_00000_step_00000_27_android.widget.TextView.png": [
+            "tab_home"
+        ], 
+        "iter_00000_step_00000_28_android.widget.LinearLayout.png": [
+            "tab_popular"
+        ], 
+        "iter_00000_step_00000_29_android.widget.TextView.png": [
+            "tab_popular"
+        ], 
+        "iter_00000_step_00000_50_android.view.View.png": [], 
+        "iter_00000_step_00001_17_android.widget.EditText.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00002_17_android.widget.EditText.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00002_25_android.widget.TextView.png": [
+            "lnk_lsslivechat"
+        ], 
+        "iter_00000_step_00008_12_android.widget.TextView.png": [
+            "txt_post_to_lsslivechat"
+        ], 
+        "iter_00000_step_00008_23_android.view.ViewGroup.png": [
+            "icn_text_option"
+        ], 
+        "iter_00000_step_00008_24_android.widget.ImageView.png": [
+            "icn_text_option"
+        ], 
+        "iter_00000_step_00008_25_android.widget.TextView.png": [
+            "icn_text_option"
+        ], 
+        "iter_00000_step_00009_27_android.widget.LinearLayout.png": [
+            "tgl_live_chat_discussion"
+        ], 
+        "iter_00000_step_00009_29_android.widget.Switch.png": [
+            "tgl_live_chat_discussion"
+        ], 
+        "iter_00000_step_00010_23_android.widget.EditText.png": [
+            "inp_an_interesting_title"
+        ], 
+        "iter_00000_step_00010_25_android.widget.EditText.png": [
+            "inp_your_text_post"
+        ], 
+        "iter_00000_step_00010_27_android.widget.LinearLayout.png": [
+            "tgl_live_chat_discussion"
+        ], 
+        "iter_00000_step_00010_29_android.widget.Switch.png": [
+            "tgl_live_chat_discussion"
+        ], 
+        "iter_00000_step_00011_12_android.widget.ImageButton.png": [
+            "btn_close"
+        ], 
+        "iter_00000_step_00011_13_android.widget.TextView.png": [
+            "ttl_text_post"
+        ], 
+        "iter_00000_step_00011_15_android.widget.TextView.png": [
+            "btn_post"
+        ], 
+        "iter_00000_step_00011_27_android.widget.LinearLayout.png": [
+            "tgl_live_chat_discussion"
+        ], 
+        "iter_00000_step_00011_29_android.widget.Switch.png": [
+            "tgl_live_chat_discussion"
+        ], 
+        "iter_00000_step_00012_69_android.widget.EditText.png": [
+            "inp_send_a_message"
+        ], 
+        "iter_00000_step_00016_16_android.widget.LinearLayout.png": [
+            "li_lock_comments"
+        ], 
+        "iter_00000_step_00018_32_android.widget.LinearLayout.png": [
+            "tab_communities"
+        ], 
+        "iter_00000_step_00019_12_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00019_33_android.widget.TextView.png": [
+            "tab_communities"
+        ], 
+        "iter_00000_step_00019_45_android.widget.TextView.png": [
+            "txt_lsslivechat"
+        ], 
+        "iter_00000_step_00023_100_android.widget.TextView.png": [
+            "txt_lsstest_textpost_tai"
+        ], 
+        "iter_00000_step_00024_94_android.widget.TextView.png": [
+            "txt_lsstest_textpost_tai"
+        ], 
+        "iter_00000_step_00025_92_android.widget.TextView.png": [
+            "txt_lsstest_textpost_tai"
+        ], 
+        "iter_00000_step_00026_72_android.widget.TextView.png": [
+            "txt_lsstest_textpost_tai"
+        ], 
+        "iter_00000_step_00031_58_android.widget.ImageView.png": [
+            "icn_expand_post"
+        ], 
+        "iter_00000_step_00031_81_android.widget.TextView.png": [
+            "btn_send"
+        ], 
+        "iter_00000_step_00033_3_android.widget.TextView.png": [
+            "txt_swipe_to_dismiss"
+        ], 
+        "iter_00000_step_00034_52_android.widget.TextView.png": [
+            "txt_lsstest_textpost_tai"
+        ], 
+        "iter_00000_step_00035_25_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00035_32_android.widget.LinearLayout.png": [
+            "tab_posts", 
+            "tab_posts_active"
+        ], 
+        "iter_00000_step_00035_33_android.widget.LinearLayout.png": [
+            "tab_posts", 
+            "tab_posts_active"
+        ], 
+        "iter_00000_step_00035_34_android.widget.TextView.png": [
+            "tab_posts"
+        ], 
+        "iter_00000_step_00035_45_android.widget.TextView.png": [
+            "ddl_filters", 
+            "ddl_filters_hot_posts"
+        ], 
+        "iter_00000_step_00035_72_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00036_43_android.widget.TextView.png": [
+            "ddl_filters", 
+            "ddl_filters_hot_posts"
+        ], 
+        "iter_00000_step_00036_70_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00037_108_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00038_119_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00039_127_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00041_48_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00042_19_android.widget.LinearLayout.png": [
+            "mi_delete_post"
+        ], 
+        "iter_00000_step_00042_22_android.widget.TextView.png": [
+            "mi_delete_post"
+        ], 
+        "iter_00000_step_00044_101_android.widget.TextView.png": [
+            "btn_moderate"
+        ], 
+        "iter_00000_step_00044_156_android.widget.ImageView.png": [
+            "icn_reddit_home"
+        ], 
+        "iter_00000_step_00044_157_android.view.ViewGroup.png": [], 
+        "iter_00000_step_00044_158_android.widget.ImageView.png": [
+            "icn_browse"
+        ], 
+        "iter_00000_step_00044_160_android.widget.LinearLayout.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00044_161_android.widget.ImageView.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00044_163_android.widget.ImageView.png": [
+            "icn_chat"
+        ], 
+        "iter_00000_step_00044_165_android.widget.ImageView.png": [
+            "icn_inbox"
+        ], 
+        "iter_00000_step_00044_16_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00044_20_android.widget.ImageView.png": [
+            "icn_more_menu"
+        ], 
+        "iter_00000_step_00046_17_android.widget.Button.png": [
+            "btn_delete"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,17 @@
+{
+    "desiredCaps": {
+        "app": "/Users/parineeta.sinha/test_ai/apps/b435312b-34b1-41ee-b265-1283374fb078/builds/667bd3db-ba32-451e-a466-604aaaeb7ae8/app/app-alpha-release.apk-latest-2021.07.0-latest.apk", 
+        "appPackage": "app-alpha-release.apk-latest", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "device_id": "AQH7N17C25006326", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "physical device", 
+    "deviceHeight": 2160, 
+    "deviceWidth": 1080, 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}

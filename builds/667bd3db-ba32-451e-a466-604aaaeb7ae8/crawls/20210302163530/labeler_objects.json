@@ -1,0 +1,677 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_10_android.widget.Spinner.png": "iter_00000_step_00000_10_android.widget.Spinner.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png": "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.EditText.png": "iter_00000_step_00000_12_android.widget.EditText.png", 
+            "iter_00000_step_00000_13_android.widget.FrameLayout.png": "iter_00000_step_00000_13_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png": "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00000_15_android.widget.LinearLayout.png": "iter_00000_step_00000_15_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_16_android.widget.TextView.png": "iter_00000_step_00000_16_android.widget.TextView.png", 
+            "iter_00000_step_00000_17_android.widget.TextView.png": "iter_00000_step_00000_17_android.widget.TextView.png", 
+            "iter_00000_step_00000_18_android.widget.LinearLayout.png": "iter_00000_step_00000_18_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_19_android.widget.TextView.png": "iter_00000_step_00000_19_android.widget.TextView.png", 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_20_android.widget.TextView.png": "iter_00000_step_00000_20_android.widget.TextView.png", 
+            "iter_00000_step_00000_21_android.widget.ProgressBar.png": "iter_00000_step_00000_21_android.widget.ProgressBar.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_3_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png": "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png": "iter_00000_step_00000_7_android.widget.TextView.png", 
+            "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png": "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png": "iter_00000_step_00000_9_android.widget.TextView.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_10_android.widget.Spinner.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_android.widget.Spinner.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Spinner", 
+                    "hash": "KN5SQ6xePyGyVzf8M0GXNA==\n", 
+                    "height": 120, 
+                    "human_hash": "android.widget.Spinner_X0_Y240_W596_H120", 
+                    "tag_name": "android.widget.Spinner", 
+                    "text": "V2 Events", 
+                    "width": 596, 
+                    "x": 0, 
+                    "y": 240
+                }, 
+                "tags": [
+                    "spinner", 
+                    "android.widget.spinner", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "V2_Events"
+                ]
+            }, 
+            "iter_00000_step_00000_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "qkSf/b4fnPQxj/+TLPcEdA==\n", 
+                    "height": 72, 
+                    "human_hash": "android.widget.TextView_X24_Y264_W329_H72", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "V2 Events", 
+                    "width": 329, 
+                    "x": 24, 
+                    "y": 264
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "V2_Events"
+                ]
+            }, 
+            "iter_00000_step_00000_12_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "5kplrd5sfvFEr5byGLk4jQ==\n", 
+                    "height": 136, 
+                    "human_hash": "android.widget.EditText_X48_Y408_W984_H136", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "Filter term (e.g. usercontrol_events)", 
+                    "width": 984, 
+                    "x": 48, 
+                    "y": 408
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Filter_term_(e.g._usercontrol_events)"
+                ]
+            }, 
+            "iter_00000_step_00000_13_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "64UFDPzKrEhwxrIl9A2Jyw==\n", 
+                    "height": 1448, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y592_W1080_H1448", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "47. 3-02 16:32:59: post__view_post_flair {\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck it, Heres your daily GME Thread-Megathread 3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"} 48. 3-02 16:32:59: global__view_screen {     \"action\": \"view\",     \"action_info\": {         \"page_type\": \"post_detail\"     },     \"app\": {         \"install_timestamp\": 1.613681696478E12,         \"name\": \"android\",         \"version\": \"2021.7.0.310463\"     },     \"client_timestamp\": 1.614731579392E12,     \"listing\": {         \"sort\": \"confidence\"     },     \"noun\": \"screen\",     \"platform\": {         \"browser_name\": \"com_android_chrome\",         \"device_id\": \"167cb630-f732-438c-96d5-b7d94426f113\",         \"device_name\": \"BLA-L29\",         \"name\": \"android_phone\",         \"os_name\": \"android\",         \"os_version\": \"8.0.0\"     },     \"post\": {         \"created_timestamp\": 1.614717127E12,         \"domain\": \"cnn.com\",         \"id\": \"t3_lwbs6f\",         \"nsfw\": false,         \"spoiler\": false,         \"title\": \"Texas governor lifts mask mandate despite health officials' warnings\",         \"type\": \"link\",         \"url\": \"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"     },     \"request\": {         \"google_aaid\": \"b892b18e-2062-4177-9cff-6c1f1c794a73\"     },     \"screen\": {         \"android_font_size\": 1.0,         \"auto_dark_mode\": \"battery_saver\",         \"height\": 2040.0,         \"theme\": \"alienbluemode\",         \"view_type\": \"post_detail\",         \"width\": 1080.0     },     \"session\": {         \"anonymous_browsing_mode\": false,         \"created_timestamp\": 1.614728290234E12,         \"id\": \"gecrfhqaomenijohnn\"     },     \"source\": \"global\",     \"subreddit\": {         \"id\": \"t5_2qh3l\",         \"name\": \"news\"     },     \"user\": {         \"created_timestamp\": 1.588253031E12,         \"has_premium\": false,         \"id\": \"t2_6cgksl52\",         \"is_admin\": false,         \"is_premium_subscriber\": false,         \"logged_in\": true     },     \"user_preferences\": {         \"language\": \"en\"     },     \"utc_offset\": -8.0,     \"uuid\": \"0e52a28a-c9c2-4139-94fd-78b55b43af00\" }", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 592
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck_it,_Heres_your_daily_GME_Thread-Megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME_Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}_48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478E12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392E12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"BLA-L29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127E12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"Texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234E12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031E12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }, 
+            "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.recyclerview.widget.RecyclerView", 
+                    "hash": "jUngPNrXMG/lV65HkTZe7Q==\n", 
+                    "height": 1448, 
+                    "human_hash": "androidx.recyclerview.widget.RecyclerView_X0_Y592_W1080_H1448", 
+                    "tag_name": "androidx.recyclerview.widget.RecyclerView", 
+                    "text": "47. 3-02 16:32:59: post__view_post_flair {\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck it, Heres your daily GME Thread-Megathread 3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"} 48. 3-02 16:32:59: global__view_screen {     \"action\": \"view\",     \"action_info\": {         \"page_type\": \"post_detail\"     },     \"app\": {         \"install_timestamp\": 1.613681696478E12,         \"name\": \"android\",         \"version\": \"2021.7.0.310463\"     },     \"client_timestamp\": 1.614731579392E12,     \"listing\": {         \"sort\": \"confidence\"     },     \"noun\": \"screen\",     \"platform\": {         \"browser_name\": \"com_android_chrome\",         \"device_id\": \"167cb630-f732-438c-96d5-b7d94426f113\",         \"device_name\": \"BLA-L29\",         \"name\": \"android_phone\",         \"os_name\": \"android\",         \"os_version\": \"8.0.0\"     },     \"post\": {         \"created_timestamp\": 1.614717127E12,         \"domain\": \"cnn.com\",         \"id\": \"t3_lwbs6f\",         \"nsfw\": false,         \"spoiler\": false,         \"title\": \"Texas governor lifts mask mandate despite health officials' warnings\",         \"type\": \"link\",         \"url\": \"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"     },     \"request\": {         \"google_aaid\": \"b892b18e-2062-4177-9cff-6c1f1c794a73\"     },     \"screen\": {         \"android_font_size\": 1.0,         \"auto_dark_mode\": \"battery_saver\",         \"height\": 2040.0,         \"theme\": \"alienbluemode\",         \"view_type\": \"post_detail\",         \"width\": 1080.0     },     \"session\": {         \"anonymous_browsing_mode\": false,         \"created_timestamp\": 1.614728290234E12,         \"id\": \"gecrfhqaomenijohnn\"     },     \"source\": \"global\",     \"subreddit\": {         \"id\": \"t5_2qh3l\",         \"name\": \"news\"     },     \"user\": {         \"created_timestamp\": 1.588253031E12,         \"has_premium\": false,         \"id\": \"t2_6cgksl52\",         \"is_admin\": false,         \"is_premium_subscriber\": false,         \"logged_in\": true     },     \"user_preferences\": {         \"language\": \"en\"     },     \"utc_offset\": -8.0,     \"uuid\": \"0e52a28a-c9c2-4139-94fd-78b55b43af00\" }", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 592
+                }, 
+                "tags": [
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck_it,_Heres_your_daily_GME_Thread-Megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME_Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}_48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478E12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392E12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"BLA-L29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127E12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"Texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234E12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031E12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }, 
+            "iter_00000_step_00000_15_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "OjGNfdksQEwHt2t72gV2vQ==\n", 
+                    "height": 131, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y592_W1080_H131", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "47. 3-02 16:32:59: post__view_post_flair {\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck it, Heres your daily GME Thread-Megathread 3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 592
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck_it,_Heres_your_daily_GME_Thread-Megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME_Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}"
+                ]
+            }, 
+            "iter_00000_step_00000_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "ywtyglnCWIAaReNs7/M0rg==\n", 
+                    "height": 16, 
+                    "human_hash": "android.widget.TextView_X24_Y592_W655_H16", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "47. 3-02 16:32:59: post__view_post_flair", 
+                    "width": 655, 
+                    "x": 24, 
+                    "y": 592
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "47._3-02_16:32:59:_post__view_post_flair"
+                ]
+            }, 
+            "iter_00000_step_00000_17_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_17_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "T1GsGjK0VIVxwpZ1XcPW5g==\n", 
+                    "height": 91, 
+                    "human_hash": "android.widget.TextView_X24_Y608_W1032_H91", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck it, Heres your daily GME Thread-Megathread 3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}", 
+                    "width": 1032, 
+                    "x": 24, 
+                    "y": 608
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck_it,_Heres_your_daily_GME_Thread-Megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME_Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}"
+                ]
+            }, 
+            "iter_00000_step_00000_18_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_18_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "jVT8mamhQIEluFKRm/dqBw==\n", 
+                    "height": 1317, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y723_W1080_H1317", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "48. 3-02 16:32:59: global__view_screen {     \"action\": \"view\",     \"action_info\": {         \"page_type\": \"post_detail\"     },     \"app\": {         \"install_timestamp\": 1.613681696478E12,         \"name\": \"android\",         \"version\": \"2021.7.0.310463\"     },     \"client_timestamp\": 1.614731579392E12,     \"listing\": {         \"sort\": \"confidence\"     },     \"noun\": \"screen\",     \"platform\": {         \"browser_name\": \"com_android_chrome\",         \"device_id\": \"167cb630-f732-438c-96d5-b7d94426f113\",         \"device_name\": \"BLA-L29\",         \"name\": \"android_phone\",         \"os_name\": \"android\",         \"os_version\": \"8.0.0\"     },     \"post\": {         \"created_timestamp\": 1.614717127E12,         \"domain\": \"cnn.com\",         \"id\": \"t3_lwbs6f\",         \"nsfw\": false,         \"spoiler\": false,         \"title\": \"Texas governor lifts mask mandate despite health officials' warnings\",         \"type\": \"link\",         \"url\": \"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"     },     \"request\": {         \"google_aaid\": \"b892b18e-2062-4177-9cff-6c1f1c794a73\"     },     \"screen\": {         \"android_font_size\": 1.0,         \"auto_dark_mode\": \"battery_saver\",         \"height\": 2040.0,         \"theme\": \"alienbluemode\",         \"view_type\": \"post_detail\",         \"width\": 1080.0     },     \"session\": {         \"anonymous_browsing_mode\": false,         \"created_timestamp\": 1.614728290234E12,         \"id\": \"gecrfhqaomenijohnn\"     },     \"source\": \"global\",     \"subreddit\": {         \"id\": \"t5_2qh3l\",         \"name\": \"news\"     },     \"user\": {         \"created_timestamp\": 1.588253031E12,         \"has_premium\": false,         \"id\": \"t2_6cgksl52\",         \"is_admin\": false,         \"is_premium_subscriber\": false,         \"logged_in\": true     },     \"user_preferences\": {         \"language\": \"en\"     },     \"utc_offset\": -8.0,     \"uuid\": \"0e52a28a-c9c2-4139-94fd-78b55b43af00\" }", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 723
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478E12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392E12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"BLA-L29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127E12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"Texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234E12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031E12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }, 
+            "iter_00000_step_00000_19_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_19_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "NVCneHDTzjIltINMMB47WA==\n", 
+                    "height": 49, 
+                    "human_hash": "android.widget.TextView_X24_Y747_W642_H49", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "48. 3-02 16:32:59: global__view_screen", 
+                    "width": 642, 
+                    "x": 24, 
+                    "y": 747
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "48._3-02_16:32:59:_global__view_screen"
+                ]
+            }, 
+            "iter_00000_step_00000_20_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "z3xroti/e0HhT1TB7S0nKQ==\n", 
+                    "height": 1244, 
+                    "human_hash": "android.widget.TextView_X24_Y796_W1032_H1244", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "{     \"action\": \"view\",     \"action_info\": {         \"page_type\": \"post_detail\"     },     \"app\": {         \"install_timestamp\": 1.613681696478E12,         \"name\": \"android\",         \"version\": \"2021.7.0.310463\"     },     \"client_timestamp\": 1.614731579392E12,     \"listing\": {         \"sort\": \"confidence\"     },     \"noun\": \"screen\",     \"platform\": {         \"browser_name\": \"com_android_chrome\",         \"device_id\": \"167cb630-f732-438c-96d5-b7d94426f113\",         \"device_name\": \"BLA-L29\",         \"name\": \"android_phone\",         \"os_name\": \"android\",         \"os_version\": \"8.0.0\"     },     \"post\": {         \"created_timestamp\": 1.614717127E12,         \"domain\": \"cnn.com\",         \"id\": \"t3_lwbs6f\",         \"nsfw\": false,         \"spoiler\": false,         \"title\": \"Texas governor lifts mask mandate despite health officials' warnings\",         \"type\": \"link\",         \"url\": \"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"     },     \"request\": {         \"google_aaid\": \"b892b18e-2062-4177-9cff-6c1f1c794a73\"     },     \"screen\": {         \"android_font_size\": 1.0,         \"auto_dark_mode\": \"battery_saver\",         \"height\": 2040.0,         \"theme\": \"alienbluemode\",         \"view_type\": \"post_detail\",         \"width\": 1080.0     },     \"session\": {         \"anonymous_browsing_mode\": false,         \"created_timestamp\": 1.614728290234E12,         \"id\": \"gecrfhqaomenijohnn\"     },     \"source\": \"global\",     \"subreddit\": {         \"id\": \"t5_2qh3l\",         \"name\": \"news\"     },     \"user\": {         \"created_timestamp\": 1.588253031E12,         \"has_premium\": false,         \"id\": \"t2_6cgksl52\",         \"is_admin\": false,         \"is_premium_subscriber\": false,         \"logged_in\": true     },     \"user_preferences\": {         \"language\": \"en\"     },     \"utc_offset\": -8.0,     \"uuid\": \"0e52a28a-c9c2-4139-94fd-78b55b43af00\" }", 
+                    "width": 1032, 
+                    "x": 24, 
+                    "y": 796
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478E12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392E12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"BLA-L29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127E12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"Texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234E12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031E12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }, 
+            "iter_00000_step_00000_21_android.widget.ProgressBar.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_21_android.widget.ProgressBar.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ProgressBar", 
+                    "hash": "+bxEGSbjYZ9nNQSbUZfpgg==\n", 
+                    "height": 144, 
+                    "human_hash": "android.widget.ProgressBar_X468_Y1304_W144_H144", 
+                    "tag_name": "android.widget.ProgressBar", 
+                    "text": "", 
+                    "width": 144, 
+                    "x": 468, 
+                    "y": 1304
+                }, 
+                "tags": [
+                    "progress", 
+                    "progressbar", 
+                    "all_elems", 
+                    "android.widget.progressbar"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_3_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "dCtzpdq+rTWd32hJLUyK8g==\n", 
+                    "height": 2040, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H2040", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Data Logging EXPORT V2 Events Filter term (e.g. usercontrol_events) 47. 3-02 16:32:59: post__view_post_flair {\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck it, Heres your daily GME Thread-Megathread 3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"} 48. 3-02 16:32:59: global__view_screen {     \"action\": \"view\",     \"action_info\": {         \"page_type\": \"post_detail\"     },     \"app\": {         \"install_timestamp\": 1.613681696478E12,         \"name\": \"android\",         \"version\": \"2021.7.0.310463\"     },     \"client_timestamp\": 1.614731579392E12,     \"listing\": {         \"sort\": \"confidence\"     },     \"noun\": \"screen\",     \"platform\": {         \"browser_name\": \"com_android_chrome\",         \"device_id\": \"167cb630-f732-438c-96d5-b7d94426f113\",         \"device_name\": \"BLA-L29\",         \"name\": \"android_phone\",         \"os_name\": \"android\",         \"os_version\": \"8.0.0\"     },     \"post\": {         \"created_timestamp\": 1.614717127E12,         \"domain\": \"cnn.com\",         \"id\": \"t3_lwbs6f\",         \"nsfw\": false,         \"spoiler\": false,         \"title\": \"Texas governor lifts mask mandate despite health officials' warnings\",         \"type\": \"link\",         \"url\": \"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"     },     \"request\": {         \"google_aaid\": \"b892b18e-2062-4177-9cff-6c1f1c794a73\"     },     \"screen\": {         \"android_font_size\": 1.0,         \"auto_dark_mode\": \"battery_saver\",         \"height\": 2040.0,         \"theme\": \"alienbluemode\",         \"view_type\": \"post_detail\",         \"width\": 1080.0     },     \"session\": {         \"anonymous_browsing_mode\": false,         \"created_timestamp\": 1.614728290234E12,         \"id\": \"gecrfhqaomenijohnn\"     },     \"source\": \"global\",     \"subreddit\": {         \"id\": \"t5_2qh3l\",         \"name\": \"news\"     },     \"user\": {         \"created_timestamp\": 1.588253031E12,         \"has_premium\": false,         \"id\": \"t2_6cgksl52\",         \"is_admin\": false,         \"is_premium_subscriber\": false,         \"logged_in\": true     },     \"user_preferences\": {         \"language\": \"en\"     },     \"utc_offset\": -8.0,     \"uuid\": \"0e52a28a-c9c2-4139-94fd-78b55b43af00\" }", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Data_Logging_EXPORT_V2_Events_Filter_term_(e.g._usercontrol_events)_47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck_it,_Heres_your_daily_GME_Thread-Megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME_Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}_48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478E12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392E12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"BLA-L29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127E12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"Texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234E12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031E12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }, 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "f/MOhAGay2gmSliYsAm8mA==\n", 
+                    "height": 2040, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H2040", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Data Logging EXPORT V2 Events Filter term (e.g. usercontrol_events) 47. 3-02 16:32:59: post__view_post_flair {\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck it, Heres your daily GME Thread-Megathread 3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"} 48. 3-02 16:32:59: global__view_screen {     \"action\": \"view\",     \"action_info\": {         \"page_type\": \"post_detail\"     },     \"app\": {         \"install_timestamp\": 1.613681696478E12,         \"name\": \"android\",         \"version\": \"2021.7.0.310463\"     },     \"client_timestamp\": 1.614731579392E12,     \"listing\": {         \"sort\": \"confidence\"     },     \"noun\": \"screen\",     \"platform\": {         \"browser_name\": \"com_android_chrome\",         \"device_id\": \"167cb630-f732-438c-96d5-b7d94426f113\",         \"device_name\": \"BLA-L29\",         \"name\": \"android_phone\",         \"os_name\": \"android\",         \"os_version\": \"8.0.0\"     },     \"post\": {         \"created_timestamp\": 1.614717127E12,         \"domain\": \"cnn.com\",         \"id\": \"t3_lwbs6f\",         \"nsfw\": false,         \"spoiler\": false,         \"title\": \"Texas governor lifts mask mandate despite health officials' warnings\",         \"type\": \"link\",         \"url\": \"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"     },     \"request\": {         \"google_aaid\": \"b892b18e-2062-4177-9cff-6c1f1c794a73\"     },     \"screen\": {         \"android_font_size\": 1.0,         \"auto_dark_mode\": \"battery_saver\",         \"height\": 2040.0,         \"theme\": \"alienbluemode\",         \"view_type\": \"post_detail\",         \"width\": 1080.0     },     \"session\": {         \"anonymous_browsing_mode\": false,         \"created_timestamp\": 1.614728290234E12,         \"id\": \"gecrfhqaomenijohnn\"     },     \"source\": \"global\",     \"subreddit\": {         \"id\": \"t5_2qh3l\",         \"name\": \"news\"     },     \"user\": {         \"created_timestamp\": 1.588253031E12,         \"has_premium\": false,         \"id\": \"t2_6cgksl52\",         \"is_admin\": false,         \"is_premium_subscriber\": false,         \"logged_in\": true     },     \"user_preferences\": {         \"language\": \"en\"     },     \"utc_offset\": -8.0,     \"uuid\": \"0e52a28a-c9c2-4139-94fd-78b55b43af00\" }", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Data_Logging_EXPORT_V2_Events_Filter_term_(e.g._usercontrol_events)_47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"BLA-L29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"Fuck_it,_Heres_your_daily_GME_Thread-Megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"GME_Thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}_48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478E12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392E12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"BLA-L29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127E12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"Texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234E12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031E12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }, 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "uSkmLQDAhJGJRldBtmSeKw==\n", 
+                    "height": 240, 
+                    "human_hash": "android.view.ViewGroup_X0_Y0_W1080_H240", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Data Logging EXPORT", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Data_Logging_EXPORT"
+                ]
+            }, 
+            "iter_00000_step_00000_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "UVVN5xruYVnankqe404Sbg==\n", 
+                    "height": 73, 
+                    "human_hash": "android.widget.TextView_X48_Y119_W321_H73", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Data Logging", 
+                    "width": 321, 
+                    "x": 48, 
+                    "y": 119
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Data_Logging"
+                ]
+            }, 
+            "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.appcompat.widget.LinearLayoutCompat", 
+                    "hash": "wTdvANBk1ZsnwNw31WKUYg==\n", 
+                    "height": 168, 
+                    "human_hash": "androidx.appcompat.widget.LinearLayoutCompat_X874_Y72_W206_H168", 
+                    "tag_name": "androidx.appcompat.widget.LinearLayoutCompat", 
+                    "text": "EXPORT", 
+                    "width": 206, 
+                    "x": 874, 
+                    "y": 72
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "androidx.appcompat.widget.linearlayoutcompat"
+                ], 
+                "text": [
+                    "EXPORT"
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "mQnSckPIg1x6t75JKtRvoA==\n", 
+                    "height": 144, 
+                    "human_hash": "android.widget.TextView_X874_Y84_W206_H144", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "EXPORT", 
+                    "width": 206, 
+                    "x": 874, 
+                    "y": 84
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "EXPORT"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_13_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00000_18_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_20_android.widget.TextView.png", 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00000_15_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_12_android.widget.EditText.png", 
+            "iter_00000_step_00000_17_android.widget.TextView.png", 
+            "iter_00000_step_00000_10_android.widget.Spinner.png", 
+            "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png", 
+            "iter_00000_step_00000_19_android.widget.TextView.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png", 
+            "iter_00000_step_00000_21_android.widget.ProgressBar.png", 
+            "iter_00000_step_00000_16_android.widget.TextView.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_10_android.widget.Spinner.png": [
+                "iter_00000_step_00000_10_android.widget.Spinner.png"
+            ], 
+            "iter_00000_step_00000_11_android.widget.TextView.png": [
+                "iter_00000_step_00000_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_12_android.widget.EditText.png": [
+                "iter_00000_step_00000_12_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00000_13_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_13_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png": [
+                "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png"
+            ], 
+            "iter_00000_step_00000_15_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_15_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_16_android.widget.TextView.png": [
+                "iter_00000_step_00000_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_17_android.widget.TextView.png": [
+                "iter_00000_step_00000_17_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_18_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_18_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_19_android.widget.TextView.png": [
+                "iter_00000_step_00000_19_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_20_android.widget.TextView.png": [
+                "iter_00000_step_00000_20_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_21_android.widget.ProgressBar.png": [
+                "iter_00000_step_00000_21_android.widget.ProgressBar.png"
+            ], 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_6_android.view.ViewGroup.png": [
+                "iter_00000_step_00000_6_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00000_7_android.widget.TextView.png": [
+                "iter_00000_step_00000_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png": [
+                "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png"
+            ], 
+            "iter_00000_step_00000_9_android.widget.TextView.png": [
+                "iter_00000_step_00000_9_android.widget.TextView.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00000_7_android.widget.TextView.png", 
+                "iter_00000_step_00000_8_androidx.appcompat.widget.LinearLayoutCompat.png", 
+                "iter_00000_step_00000_9_android.widget.TextView.png", 
+                "iter_00000_step_00000_10_android.widget.Spinner.png", 
+                "iter_00000_step_00000_11_android.widget.TextView.png", 
+                "iter_00000_step_00000_12_android.widget.EditText.png", 
+                "iter_00000_step_00000_13_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_14_androidx.recyclerview.widget.RecyclerView.png", 
+                "iter_00000_step_00000_15_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_16_android.widget.TextView.png", 
+                "iter_00000_step_00000_17_android.widget.TextView.png", 
+                "iter_00000_step_00000_18_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_19_android.widget.TextView.png", 
+                "iter_00000_step_00000_20_android.widget.TextView.png", 
+                "iter_00000_step_00000_21_android.widget.ProgressBar.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.framelayout", 
+                    "edittext", 
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "android.view.viewgroup", 
+                    "androidx.appcompat.widget.linearlayoutcompat", 
+                    "spinner", 
+                    "android.widget.spinner", 
+                    "progressbar", 
+                    "android.widget.progressbar", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.widget.textview", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"bla-l29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"fuck_it,_heres_your_daily_gme_thread-megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"gme_thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}", 
+                    "data_logging", 
+                    "filter_term_(e.g._usercontrol_events)", 
+                    "v2_events", 
+                    "48._3-02_16:32:59:_global__view_screen", 
+                    "data_logging_export", 
+                    "47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"bla-l29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"fuck_it,_heres_your_daily_gme_thread-megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"gme_thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}_48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478e12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392e12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"bla-l29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127e12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234e12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031e12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}", 
+                    "data_logging_export_v2_events_filter_term_(e.g._usercontrol_events)_47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"bla-l29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"fuck_it,_heres_your_daily_gme_thread-megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"gme_thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}_48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478e12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392e12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"bla-l29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127e12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234e12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031e12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}", 
+                    "export", 
+                    "{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478e12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392e12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"bla-l29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127e12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234e12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031e12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}", 
+                    "47._3-02_16:32:59:_post__view_post_flair_{\"action\":\"view\",\"action_info\":{\"page_type\":\"post_detail\",\"position\":0},\"app\":{\"install_timestamp\":1613681696478,\"name\":\"android\",\"version\":\"2021.7.0.310463\"},\"client_timestamp\":1614731579602,\"noun\":\"post_flair\",\"platform\":{\"browser_name\":\"com_android_chrome\",\"device_id\":\"167cb630-f732-438c-96d5-b7d94426f113\",\"device_name\":\"bla-l29\",\"name\":\"android_phone\",\"os_name\":\"android\",\"os_version\":\"8.0.0\"},\"post\":{\"id\":\"t3_lw4qgi\",\"title\":\"fuck_it,_heres_your_daily_gme_thread-megathread_3/2/21\",\"type\":\"text\"},\"post_flair\":{\"title\":\"gme_thread\"},\"request\":{\"google_aaid\":\"b892b18e-2062-4177-9cff-6c1f1c794a73\"},\"screen\":{\"android_font_size\":1.0,\"auto_dark_mode\":\"battery_saver\",\"height\":2040,\"theme\":\"alienbluemode\",\"width\":1080},\"session\":{\"anonymous_browsing_mode\":false,\"created_timestamp\":1614728290234,\"id\":\"gecrfhqaomenijohnn\"},\"source\":\"post\",\"subreddit\":{\"id\":\"t5_2th52\",\"name\":\"wallstreetbets\"},\"user\":{\"created_timestamp\":1588253031000,\"has_premium\":false,\"id\":\"t2_6cgksl52\",\"is_admin\":false,\"is_premium_subscriber\":false,\"logged_in\":true},\"user_preferences\":{\"language\":\"en\"},\"utc_offset\":-8.0,\"uuid\":\"e45782c4-0392-4771-aae7-00861f231434\"}", 
+                    "47._3-02_16:32:59:_post__view_post_flair", 
+                    "48._3-02_16:32:59:_global__view_screen_{_____\"action\":_\"view\",_____\"action_info\":_{_________\"page_type\":_\"post_detail\"_____},_____\"app\":_{_________\"install_timestamp\":_1.613681696478e12,_________\"name\":_\"android\",_________\"version\":_\"2021.7.0.310463\"_____},_____\"client_timestamp\":_1.614731579392e12,_____\"listing\":_{_________\"sort\":_\"confidence\"_____},_____\"noun\":_\"screen\",_____\"platform\":_{_________\"browser_name\":_\"com_android_chrome\",_________\"device_id\":_\"167cb630-f732-438c-96d5-b7d94426f113\",_________\"device_name\":_\"bla-l29\",_________\"name\":_\"android_phone\",_________\"os_name\":_\"android\",_________\"os_version\":_\"8.0.0\"_____},_____\"post\":_{_________\"created_timestamp\":_1.614717127e12,_________\"domain\":_\"cnn.com\",_________\"id\":_\"t3_lwbs6f\",_________\"nsfw\":_false,_________\"spoiler\":_false,_________\"title\":_\"texas_governor_lifts_mask_mandate_despite_health_officials'_warnings\",_________\"type\":_\"link\",_________\"url\":_\"https://www.cnn.com/2021/03/02/us/texas-governor-mask-mandate/index.html\"_____},_____\"request\":_{_________\"google_aaid\":_\"b892b18e-2062-4177-9cff-6c1f1c794a73\"_____},_____\"screen\":_{_________\"android_font_size\":_1.0,_________\"auto_dark_mode\":_\"battery_saver\",_________\"height\":_2040.0,_________\"theme\":_\"alienbluemode\",_________\"view_type\":_\"post_detail\",_________\"width\":_1080.0_____},_____\"session\":_{_________\"anonymous_browsing_mode\":_false,_________\"created_timestamp\":_1.614728290234e12,_________\"id\":_\"gecrfhqaomenijohnn\"_____},_____\"source\":_\"global\",_____\"subreddit\":_{_________\"id\":_\"t5_2qh3l\",_________\"name\":_\"news\"_____},_____\"user\":_{_________\"created_timestamp\":_1.588253031e12,_________\"has_premium\":_false,_________\"id\":_\"t2_6cgksl52\",_________\"is_admin\":_false,_________\"is_premium_subscriber\":_false,_________\"logged_in\":_true_____},_____\"user_preferences\":_{_________\"language\":_\"en\"_____},_____\"utc_offset\":_-8.0,_____\"uuid\":_\"0e52a28a-c9c2-4139-94fd-78b55b43af00\"_}"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}

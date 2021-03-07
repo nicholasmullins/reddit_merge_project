@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00002_16_android.widget.ImageButton.png": [
+            "btn_video_play"
+        ], 
+        "iter_00000_step_00002_18_android.widget.ImageButton.png": [
+            "btn_video_confirm"
+        ], 
+        "iter_00000_step_00002_19_android.widget.ImageButton.png": [
+            "btn_video_retake"
+        ]
+    }, 
+    "screens": {}
+}

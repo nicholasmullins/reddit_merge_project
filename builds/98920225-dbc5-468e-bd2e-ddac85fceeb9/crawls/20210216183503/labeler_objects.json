@@ -1,0 +1,830 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": "iter_00000_step_00000_0_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_10_android.view.View.png": "iter_00000_step_00000_10_android.view.View.png", 
+            "iter_00000_step_00000_11_android.widget.Button.png": "iter_00000_step_00000_11_android.widget.Button.png", 
+            "iter_00000_step_00000_12_android.view.View.png": "iter_00000_step_00000_13_android.view.View.png", 
+            "iter_00000_step_00000_13_android.view.View.png": "iter_00000_step_00000_13_android.view.View.png", 
+            "iter_00000_step_00000_14_android.view.View.png": "iter_00000_step_00000_17_android.view.View.png", 
+            "iter_00000_step_00000_15_android.view.View.png": "iter_00000_step_00000_15_android.view.View.png", 
+            "iter_00000_step_00000_16_android.widget.EditText.png": "iter_00000_step_00000_16_android.widget.EditText.png", 
+            "iter_00000_step_00000_17_android.view.View.png": "iter_00000_step_00000_17_android.view.View.png", 
+            "iter_00000_step_00000_18_android.view.View.png": "iter_00000_step_00000_18_android.view.View.png", 
+            "iter_00000_step_00000_19_android.view.View.png": "iter_00000_step_00000_19_android.view.View.png", 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": "iter_00000_step_00000_1_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_20_android.view.View.png": "iter_00000_step_00000_20_android.view.View.png", 
+            "iter_00000_step_00000_21_android.widget.Button.png": "iter_00000_step_00000_21_android.widget.Button.png", 
+            "iter_00000_step_00000_22_android.view.View.png": "iter_00000_step_00000_22_android.view.View.png", 
+            "iter_00000_step_00000_23_android.view.View.png": "iter_00000_step_00000_23_android.view.View.png", 
+            "iter_00000_step_00000_24_android.widget.Button.png": "iter_00000_step_00000_24_android.widget.Button.png", 
+            "iter_00000_step_00000_25_android.view.View.png": "iter_00000_step_00000_25_android.view.View.png", 
+            "iter_00000_step_00000_26_android.widget.Spinner.png": "iter_00000_step_00000_26_android.widget.Spinner.png", 
+            "iter_00000_step_00000_27_android.view.View.png": "iter_00000_step_00000_28_android.view.View.png", 
+            "iter_00000_step_00000_28_android.view.View.png": "iter_00000_step_00000_28_android.view.View.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_3_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_android.webkit.WebView.png": "iter_00000_step_00000_6_android.webkit.WebView.png", 
+            "iter_00000_step_00000_6_android.webkit.WebView.png": "iter_00000_step_00000_6_android.webkit.WebView.png", 
+            "iter_00000_step_00000_7_android.view.View.png": "iter_00000_step_00000_7_android.view.View.png", 
+            "iter_00000_step_00000_8_android.view.View.png": "iter_00000_step_00000_8_android.view.View.png", 
+            "iter_00000_step_00000_9_android.view.View.png": "iter_00000_step_00000_9_android.view.View.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "e8q9ErrtmcTBhs8wTfqBrw==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sign in with your Google Account. Learn more Sign in with your Google Account.  Learn more about Google Accounts Forgot email? Next  Create account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sign_in_with_your_Google_Account._Learn_more_Sign_in_with_your_Google_Account.__Learn_more_about_Google_Accounts_Forgot_email?_Next__Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_10_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "cP92qcKhXyh4+R6HYJLc6g==\n", 
+                    "height": 50, 
+                    "human_hash": "android.view.View_X175_Y464_W510_H50", 
+                    "tag_name": "android.view.View", 
+                    "text": "with your Google Account. ", 
+                    "width": 510, 
+                    "x": 175, 
+                    "y": 464
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "with_your_Google_Account._"
+                ]
+            }, 
+            "iter_00000_step_00000_11_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "RwMQ3//J7lHcwCZn7qln6w==\n", 
+                    "height": 63, 
+                    "human_hash": "android.widget.Button_X682_Y459_W223_H63", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Learn more about Google Accounts", 
+                    "width": 223, 
+                    "x": 682, 
+                    "y": 459
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Learn_more_about_Google_Accounts"
+                ]
+            }, 
+            "iter_00000_step_00000_13_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_13_android.view.View.png", 
+                    "iter_00000_step_00000_12_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "qFcQfipg+x0wm9YzA2sD4g==\n", 
+                    "height": 252, 
+                    "human_hash": "android.view.View_X63_Y585_W955_H252", 
+                    "tag_name": "android.view.View", 
+                    "text": "Forgot email?", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 585
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Forgot_email?"
+                ]
+            }, 
+            "iter_00000_step_00000_15_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "Uz5CE2DnatC/UU0lqgafyA==\n", 
+                    "height": 144, 
+                    "human_hash": "android.view.View_X63_Y606_W955_H144", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 606
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_16_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_16_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "GVgV9UirU/Ypc91JRwjNWQ==\n", 
+                    "height": 141, 
+                    "human_hash": "android.widget.EditText_X65_Y609_W950_H141", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "", 
+                    "width": 950, 
+                    "x": 65, 
+                    "y": 609
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_17_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_17_android.view.View.png", 
+                    "iter_00000_step_00000_14_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "m8eedyNq2kLmarMES5L8ww==\n", 
+                    "height": 147, 
+                    "human_hash": "android.view.View_X63_Y606_W955_H147", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 606
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_18_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_18_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "4T66TRmqQKFUX1zeuzi78Q==\n", 
+                    "height": 147, 
+                    "human_hash": "android.view.View_X65_Y609_W950_H147", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 950, 
+                    "x": 65, 
+                    "y": 609
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_19_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_19_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "WnW02F5U69G0LcQ6qW0+WA==\n", 
+                    "height": 137, 
+                    "human_hash": "android.view.View_X63_Y616_W945_H137", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 945, 
+                    "x": 63, 
+                    "y": 616
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "lCzNHmKQHvMv2k2n2y4LUA==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Sign in with your Google Account. Learn more Sign in with your Google Account.  Learn more about Google Accounts Forgot email? Next  Create account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Sign_in_with_your_Google_Account._Learn_more_Sign_in_with_your_Google_Account.__Learn_more_about_Google_Accounts_Forgot_email?_Next__Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_20_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_20_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "h/VdkBihg5krwUaWLtEIig==\n", 
+                    "height": 84, 
+                    "human_hash": "android.view.View_X63_Y753_W955_H84", 
+                    "tag_name": "android.view.View", 
+                    "text": "Forgot email?", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 753
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Forgot_email?"
+                ]
+            }, 
+            "iter_00000_step_00000_21_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_21_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "9KCyW1tz7fZ8Hy3e2KoHpQ==\n", 
+                    "height": 42, 
+                    "human_hash": "android.widget.Button_X63_Y782_W233_H42", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Forgot email?", 
+                    "width": 233, 
+                    "x": 63, 
+                    "y": 782
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Forgot_email?"
+                ]
+            }, 
+            "iter_00000_step_00000_22_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_22_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "0Op3H0hHTenBRF2NEQpuIg==\n", 
+                    "height": 126, 
+                    "human_hash": "android.view.View_X582_Y1470_W436_H126", 
+                    "tag_name": "android.view.View", 
+                    "text": "Next ", 
+                    "width": 436, 
+                    "x": 582, 
+                    "y": 1470
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Next_"
+                ]
+            }, 
+            "iter_00000_step_00000_23_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_23_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "khLEF/Yk/BMXb2SyAd7QfA==\n", 
+                    "height": 126, 
+                    "human_hash": "android.view.View_X808_Y1470_W210_H126", 
+                    "tag_name": "android.view.View", 
+                    "text": "Next ", 
+                    "width": 210, 
+                    "x": 808, 
+                    "y": 1470
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Next_"
+                ]
+            }, 
+            "iter_00000_step_00000_24_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_24_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "mKtIwuoESoPmf8rMP5U9XA==\n", 
+                    "height": 95, 
+                    "human_hash": "android.widget.Button_X808_Y1485_W210_H95", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Next ", 
+                    "width": 210, 
+                    "x": 808, 
+                    "y": 1485
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Next_"
+                ]
+            }, 
+            "iter_00000_step_00000_25_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_25_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "+2bWwKKUUMGzmCxxlTGusw==\n", 
+                    "height": 126, 
+                    "human_hash": "android.view.View_X39_Y1470_W546_H126", 
+                    "tag_name": "android.view.View", 
+                    "text": "Create account", 
+                    "width": 546, 
+                    "x": 39, 
+                    "y": 1470
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_26_android.widget.Spinner.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_26_android.widget.Spinner.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Spinner", 
+                    "hash": "g7tedJuW8SejQFP31KpWYA==\n", 
+                    "height": 95, 
+                    "human_hash": "android.widget.Spinner_X39_Y1485_W318_H95", 
+                    "tag_name": "android.widget.Spinner", 
+                    "text": "Create account", 
+                    "width": 318, 
+                    "x": 39, 
+                    "y": 1485
+                }, 
+                "tags": [
+                    "spinner", 
+                    "android.widget.spinner", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_28_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_28_android.view.View.png", 
+                    "iter_00000_step_00000_27_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "eeZ5QKpnb5NcXf6FKABjrQ==\n", 
+                    "height": 2, 
+                    "human_hash": "android.view.View_X0_Y1792_W1080_H2", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 1792
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_3_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_2_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "F9YJ+Ux7eP4+RrLB958j2w==\n", 
+                    "height": 1731, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y63_W1080_H1731", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sign in with your Google Account. Learn more Sign in with your Google Account.  Learn more about Google Accounts Forgot email? Next  Create account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sign_in_with_your_Google_Account._Learn_more_Sign_in_with_your_Google_Account.__Learn_more_about_Google_Accounts_Forgot_email?_Next__Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_6_android.webkit.WebView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_6_android.webkit.WebView.png", 
+                    "iter_00000_step_00000_5_android.webkit.WebView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.webkit.WebView", 
+                    "hash": "rsu2GIoIMZ7lBCC5Aw6Paw==\n", 
+                    "height": 1731, 
+                    "human_hash": "android.webkit.WebView_X0_Y63_W1080_H1731", 
+                    "tag_name": "android.webkit.WebView", 
+                    "text": "Sign in with your Google Account. Learn more Sign in with your Google Account.  Learn more about Google Accounts Forgot email? Next  Create account", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "web", 
+                    "all_elems", 
+                    "android.webkit.webview"
+                ], 
+                "text": [
+                    "Sign_in_with_your_Google_Account._Learn_more_Sign_in_with_your_Google_Account.__Learn_more_about_Google_Accounts_Forgot_email?_Next__Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_7_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "cQj2+DxZV0RXAg2OROrwhA==\n", 
+                    "height": 1333, 
+                    "human_hash": "android.view.View_X63_Y315_W955_H1333", 
+                    "tag_name": "android.view.View", 
+                    "text": "Sign in with your Google Account.  Learn more about Google Accounts Forgot email? Next  Create account", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 315
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Sign_in_with_your_Google_Account.__Learn_more_about_Google_Accounts_Forgot_email?_Next__Create_account"
+                ]
+            }, 
+            "iter_00000_step_00000_8_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "PAI8jwsgHLpNBoLHQlp0zA==\n", 
+                    "height": 123, 
+                    "human_hash": "android.view.View_X63_Y315_W955_H123", 
+                    "tag_name": "android.view.View", 
+                    "text": "Sign in", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 315
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "Sign_in"
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "bOrIiXAl0PSINrTJnem+aw==\n", 
+                    "height": 84, 
+                    "human_hash": "android.view.View_X63_Y438_W955_H84", 
+                    "tag_name": "android.view.View", 
+                    "text": "with your Google Account.  Learn more about Google Accounts", 
+                    "width": 955, 
+                    "x": 63, 
+                    "y": 438
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    "with_your_Google_Account.__Learn_more_about_Google_Accounts"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_6_android.webkit.WebView.png", 
+            "iter_00000_step_00000_7_android.view.View.png", 
+            "iter_00000_step_00000_13_android.view.View.png", 
+            "iter_00000_step_00000_17_android.view.View.png", 
+            "iter_00000_step_00000_18_android.view.View.png", 
+            "iter_00000_step_00000_15_android.view.View.png", 
+            "iter_00000_step_00000_16_android.widget.EditText.png", 
+            "iter_00000_step_00000_19_android.view.View.png", 
+            "iter_00000_step_00000_8_android.view.View.png", 
+            "iter_00000_step_00000_9_android.view.View.png", 
+            "iter_00000_step_00000_20_android.view.View.png", 
+            "iter_00000_step_00000_25_android.view.View.png", 
+            "iter_00000_step_00000_22_android.view.View.png", 
+            "iter_00000_step_00000_26_android.widget.Spinner.png", 
+            "iter_00000_step_00000_23_android.view.View.png", 
+            "iter_00000_step_00000_10_android.view.View.png", 
+            "iter_00000_step_00000_24_android.widget.Button.png", 
+            "iter_00000_step_00000_11_android.widget.Button.png", 
+            "iter_00000_step_00000_21_android.widget.Button.png", 
+            "iter_00000_step_00000_28_android.view.View.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_10_android.view.View.png": [
+                "iter_00000_step_00000_10_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_11_android.widget.Button.png": [
+                "iter_00000_step_00000_11_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00000_13_android.view.View.png": [
+                "iter_00000_step_00000_13_android.view.View.png", 
+                "iter_00000_step_00000_12_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_15_android.view.View.png": [
+                "iter_00000_step_00000_15_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_16_android.widget.EditText.png": [
+                "iter_00000_step_00000_16_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00000_17_android.view.View.png": [
+                "iter_00000_step_00000_17_android.view.View.png", 
+                "iter_00000_step_00000_14_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_18_android.view.View.png": [
+                "iter_00000_step_00000_18_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_19_android.view.View.png": [
+                "iter_00000_step_00000_19_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_20_android.view.View.png": [
+                "iter_00000_step_00000_20_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_21_android.widget.Button.png": [
+                "iter_00000_step_00000_21_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00000_22_android.view.View.png": [
+                "iter_00000_step_00000_22_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_23_android.view.View.png": [
+                "iter_00000_step_00000_23_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_24_android.widget.Button.png": [
+                "iter_00000_step_00000_24_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00000_25_android.view.View.png": [
+                "iter_00000_step_00000_25_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_26_android.widget.Spinner.png": [
+                "iter_00000_step_00000_26_android.widget.Spinner.png"
+            ], 
+            "iter_00000_step_00000_28_android.view.View.png": [
+                "iter_00000_step_00000_28_android.view.View.png", 
+                "iter_00000_step_00000_27_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_6_android.webkit.WebView.png": [
+                "iter_00000_step_00000_6_android.webkit.WebView.png", 
+                "iter_00000_step_00000_5_android.webkit.WebView.png"
+            ], 
+            "iter_00000_step_00000_7_android.view.View.png": [
+                "iter_00000_step_00000_7_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_8_android.view.View.png": [
+                "iter_00000_step_00000_8_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_9_android.view.View.png": [
+                "iter_00000_step_00000_9_android.view.View.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_6_android.webkit.WebView.png", 
+                "iter_00000_step_00000_6_android.webkit.WebView.png", 
+                "iter_00000_step_00000_7_android.view.View.png", 
+                "iter_00000_step_00000_8_android.view.View.png", 
+                "iter_00000_step_00000_9_android.view.View.png", 
+                "iter_00000_step_00000_10_android.view.View.png", 
+                "iter_00000_step_00000_11_android.widget.Button.png", 
+                "iter_00000_step_00000_13_android.view.View.png", 
+                "iter_00000_step_00000_13_android.view.View.png", 
+                "iter_00000_step_00000_17_android.view.View.png", 
+                "iter_00000_step_00000_15_android.view.View.png", 
+                "iter_00000_step_00000_16_android.widget.EditText.png", 
+                "iter_00000_step_00000_17_android.view.View.png", 
+                "iter_00000_step_00000_18_android.view.View.png", 
+                "iter_00000_step_00000_19_android.view.View.png", 
+                "iter_00000_step_00000_20_android.view.View.png", 
+                "iter_00000_step_00000_21_android.widget.Button.png", 
+                "iter_00000_step_00000_22_android.view.View.png", 
+                "iter_00000_step_00000_23_android.view.View.png", 
+                "iter_00000_step_00000_24_android.widget.Button.png", 
+                "iter_00000_step_00000_25_android.view.View.png", 
+                "iter_00000_step_00000_26_android.widget.Spinner.png", 
+                "iter_00000_step_00000_28_android.view.View.png", 
+                "iter_00000_step_00000_28_android.view.View.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.widget.framelayout", 
+                    "edittext", 
+                    "button", 
+                    "spinner", 
+                    "android.widget.spinner", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.view.view", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "android.webkit.webview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "learn_more_about_google_accounts", 
+                    "with_your_google_account._", 
+                    "with_your_google_account.__learn_more_about_google_accounts", 
+                    "forgot_email?", 
+                    "sign_in", 
+                    "sign_in_with_your_google_account._learn_more_sign_in_with_your_google_account.__learn_more_about_google_accounts_forgot_email?_next__create_account", 
+                    "sign_in_with_your_google_account.__learn_more_about_google_accounts_forgot_email?_next__create_account", 
+                    "next_", 
+                    "create_account"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}

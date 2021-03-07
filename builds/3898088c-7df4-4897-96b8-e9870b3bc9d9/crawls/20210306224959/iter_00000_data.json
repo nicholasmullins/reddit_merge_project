@@ -1,0 +1,16 @@
+{
+    "desiredCaps": {
+        "app": "/Users/bot/test_ai/apps/b435312b-34b1-41ee-b265-1283374fb078/builds/3898088c-7df4-4897-96b8-e9870b3bc9d9/app/app-alpha-release.apk-02.27.21.apk", 
+        "appPackage": "app-alpha-release.apk", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "Nexus 5", 
+    "deviceHeight": 2280, 
+    "deviceWidth": 1080, 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}

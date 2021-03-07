@@ -1,0 +1,39 @@
+{
+    "elems": {
+        "iter_00000_step_00001_157_android.widget.LinearLayout.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00001_159_android.view.ViewGroup.png": [], 
+        "iter_00000_step_00001_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00005_44_android.view.ViewGroup.png": [
+            "tgl_reduce_award_animations"
+        ], 
+        "iter_00000_step_00005_47_android.widget.LinearLayout.png": [], 
+        "iter_00000_step_00005_48_android.widget.Switch.png": [
+            "tgl_reduce_award_animations", 
+            "tgl_switch"
+        ], 
+        "iter_00000_step_00006_48_android.widget.Switch.png": [
+            "tgl_reduce_award_animations_on", 
+            "tgl_switch_on", 
+            "tgl_reduce_award_animations", 
+            "tgl_switch"
+        ], 
+        "iter_00000_step_00006_53_android.widget.Switch.png": [
+            "tgl_switch"
+        ], 
+        "iter_00000_step_00006_57_android.widget.LinearLayout.png": [], 
+        "iter_00000_step_00006_58_android.widget.Switch.png": [
+            "tgl_switch"
+        ], 
+        "iter_00000_step_00006_68_android.widget.Switch.png": [
+            "tgl_switch"
+        ], 
+        "iter_00000_step_00006_7_android.widget.ImageButton.png": [
+            "btn_back"
+        ]
+    }, 
+    "screens": {}
+}

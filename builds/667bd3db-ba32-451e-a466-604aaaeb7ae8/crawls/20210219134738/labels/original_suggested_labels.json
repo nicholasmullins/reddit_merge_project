@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00000_78_android.widget.LinearLayout.png": {
+            "post_creation": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}

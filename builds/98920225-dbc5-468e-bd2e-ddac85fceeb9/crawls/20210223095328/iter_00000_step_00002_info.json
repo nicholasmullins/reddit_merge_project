@@ -1,0 +1,93 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "bpG1NFjPbo2HIm1w1X21HQ==\n", 
+            "height": 3040, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W1440_H3040", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 1440, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "no_op", 
+        "text": "no_op"
+    }, 
+    "all_elems": [
+        {
+            "bounds": "[0,228][1438,2689]", 
+            "class": "android.widget.Image", 
+            "enabled": true, 
+            "hash": "J5DQkNmk+BhQuOBmipnQCg==\n", 
+            "height": 2461, 
+            "hier_level": 2, 
+            "human_hash": "android.widget.Image_X0_Y228_W1438_H2461", 
+            "index": "1", 
+            "is_transformed": true, 
+            "tag_name": "android.widget.Image", 
+            "text": "", 
+            "width": 1438, 
+            "x": 0, 
+            "y": 228
+        }, 
+        {
+            "bounds": "[1265,2210][1403,2350]", 
+            "class": "android.widget.Button", 
+            "enabled": true, 
+            "hash": "P/7zUO+vXA1aINa1CExiFA==\n", 
+            "height": 140, 
+            "hier_level": 3, 
+            "human_hash": "android.widget.Button_X1265_Y2210_W138_H140", 
+            "index": "2", 
+            "is_transformed": true, 
+            "tag_name": "android.widget.Button", 
+            "text": "", 
+            "width": 138, 
+            "x": 1265, 
+            "y": 2210
+        }, 
+        {
+            "bounds": "[655,2488][783,2591]", 
+            "class": "android.widget.Button", 
+            "enabled": true, 
+            "hash": "lnE3kVlAvGV/vwajQLq4UA==\n", 
+            "height": 103, 
+            "hier_level": 3, 
+            "human_hash": "android.widget.Button_X655_Y2488_W128_H103", 
+            "index": "2", 
+            "is_transformed": true, 
+            "tag_name": "android.widget.Button", 
+            "text": "", 
+            "width": 128, 
+            "x": 655, 
+            "y": 2488
+        }, 
+        {
+            "bounds": "[731,944][1316,1492]", 
+            "class": "android.widget.Image", 
+            "enabled": true, 
+            "hash": "dXAQ0snrarqGv9r1TQIFjg==\n", 
+            "height": 548, 
+            "hier_level": 3, 
+            "human_hash": "android.widget.Image_X731_Y944_W585_H548", 
+            "index": "2", 
+            "is_transformed": true, 
+            "tag_name": "android.widget.Image", 
+            "text": "", 
+            "width": 585, 
+            "x": 731, 
+            "y": 944
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": false, 
+    "timing": 0
+}

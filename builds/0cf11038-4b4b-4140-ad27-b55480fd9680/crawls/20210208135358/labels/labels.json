@@ -1,0 +1,16 @@
+{
+    "elems": {
+        "iter_00000_step_00002_15_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00002_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00003_127_android.widget.ImageView.png": [
+            "icn_reddit_home"
+        ], 
+        "iter_00000_step_00003_15_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00003_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ]
+    }, 
+    "screens": {}
+}

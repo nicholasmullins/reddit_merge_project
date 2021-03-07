@@ -1,0 +1,119 @@
+{
+    "elems": {
+        "iter_00000_step_00001_68_android.widget.ImageView.png": [
+            "icn_upvote_not_selected"
+        ], 
+        "iter_00000_step_00001_70_android.widget.ImageView.png": [
+            "icn_downvote_not_selected"
+        ], 
+        "iter_00000_step_00003_114_android.widget.LinearLayout.png": [
+            "ddl_reddit_lss_38", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00003_68_android.widget.ImageView.png": [], 
+        "iter_00000_step_00003_72_android.widget.TextView.png": [], 
+        "iter_00000_step_00005_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00005_25_android.widget.TextView.png": [
+            "li_reddit_lss_38"
+        ], 
+        "iter_00000_step_00011_17_android.widget.EditText.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00014_28_android.widget.LinearLayout.png": [
+            "tab_popular"
+        ], 
+        "iter_00000_step_00019_134_android.widget.LinearLayout.png": [
+            "ddl_username", 
+            "ddl_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00019_168_android.widget.Button.png": [
+            "mi_settings"
+        ], 
+        "iter_00000_step_00019_28_android.widget.LinearLayout.png": [], 
+        "iter_00000_step_00019_87_android.widget.ImageView.png": [], 
+        "iter_00000_step_00021_51_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00021_52_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00022_43_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00022_44_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00023_34_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00023_35_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00024_29_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00024_30_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00025_21_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00025_22_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00026_18_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00026_19_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00027_17_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00027_18_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00027_20_android.widget.Switch.png": [
+            "tgl_rpan_env_off"
+        ], 
+        "iter_00000_step_00029_13_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00031_13_android.view.ViewGroup.png": [
+            "tgl_rpan_env"
+        ], 
+        "iter_00000_step_00031_14_android.widget.TextView.png": [
+            "txt_rpan_env"
+        ], 
+        "iter_00000_step_00031_16_android.widget.Switch.png": [
+            "tgl_rpan_env_on"
+        ], 
+        "iter_00000_step_00031_7_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00031_8_android.widget.TextView.png": [
+            "ttl_settings"
+        ], 
+        "iter_00000_step_00032_117_android.view.ViewGroup.png": [], 
+        "iter_00000_step_00032_121_android.widget.LinearLayout.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00032_122_android.widget.ImageView.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00032_15_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00032_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00032_17_android.widget.TextView.png": [
+            "txt_search"
+        ], 
+        "iter_00000_step_00032_29_android.widget.TextView.png": [
+            "tab_popular"
+        ], 
+        "iter_00000_step_00032_90_android.widget.ImageView.png": []
+    }, 
+    "screens": {}
+}

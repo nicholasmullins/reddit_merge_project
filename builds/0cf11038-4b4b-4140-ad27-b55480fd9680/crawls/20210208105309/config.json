@@ -1,0 +1,16 @@
+{
+    "app_id": "com.reddit.frontpage.alpha", 
+    "effective_num_tests": 0, 
+    "eyes_api_key": null, 
+    "is_interactive": true, 
+    "is_noop": false, 
+    "is_test": false, 
+    "max_iterations": 1, 
+    "max_steps": 150, 
+    "num_iterations": 1, 
+    "package": null, 
+    "platform": "ANDROID", 
+    "rand_seed": 1612810331, 
+    "real_app_id": "com.reddit.frontpage.alpha", 
+    "test_wildcard": "*"
+}

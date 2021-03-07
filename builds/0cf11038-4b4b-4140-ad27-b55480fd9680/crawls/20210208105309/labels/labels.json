@@ -1,0 +1,223 @@
+{
+    "elems": {
+        "iter_00000_step_00000_147_android.widget.LinearLayout.png": [
+            "ddl_lss_bvt_and_01", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00000_148_android.widget.TextView.png": [
+            "txt_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00001_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00002_123_android.widget.LinearLayout.png": [
+            "ddl_reddit_lss_38", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00004_131_android.widget.ImageView.png": [], 
+        "iter_00000_step_00004_155_android.widget.LinearLayout.png": [
+            "ddl_reddit_lss_43", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00006_61_android.widget.LinearLayout.png": [
+            "ddl_lss_bvt_and_11", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00006_62_android.widget.TextView.png": [
+            "txt_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00007_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00007_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00008_82_android.widget.LinearLayout.png": [
+            "ddl_username", 
+            "ddl_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00008_83_android.widget.TextView.png": [
+            "txt_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00009_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00009_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00009_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00011_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00011_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00011_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00011_37_android.widget.TextView.png": [
+            "li_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00012_144_android.widget.LinearLayout.png": [
+            "ddl_lss_bvt_and_20", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00012_145_android.widget.TextView.png": [
+            "txt_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00013_122_android.widget.ImageView.png": [], 
+        "iter_00000_step_00013_144_android.widget.LinearLayout.png": [
+            "ddl_lss_bvt_and_21", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00013_145_android.widget.TextView.png": [
+            "txt_lss_bvt_and_21"
+        ], 
+        "iter_00000_step_00014_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00014_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00014_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00014_37_android.widget.TextView.png": [
+            "li_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00014_43_android.widget.TextView.png": [
+            "li_lss_bvt_and_21"
+        ], 
+        "iter_00000_step_00015_117_android.widget.LinearLayout.png": [
+            "ddl_username", 
+            "ddl_lss_bvt_and_02"
+        ], 
+        "iter_00000_step_00015_118_android.widget.TextView.png": [
+            "txt_lss_bvt_and_02"
+        ], 
+        "iter_00000_step_00015_82_android.widget.ImageView.png": [], 
+        "iter_00000_step_00016_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00016_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00016_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00016_37_android.widget.TextView.png": [
+            "li_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00016_43_android.widget.TextView.png": [
+            "li_lss_bvt_and_21"
+        ], 
+        "iter_00000_step_00016_49_android.widget.TextView.png": [
+            "li_lss_bvt_and_02"
+        ], 
+        "iter_00000_step_00017_127_android.widget.LinearLayout.png": [
+            "ddl_lss_bvt_and_03", 
+            "ddl_username"
+        ], 
+        "iter_00000_step_00017_128_android.widget.TextView.png": [
+            "txt_lss_bvt_and_03"
+        ], 
+        "iter_00000_step_00018_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00018_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00018_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00018_37_android.widget.TextView.png": [
+            "li_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00018_43_android.widget.TextView.png": [
+            "li_lss_bvt_and_21"
+        ], 
+        "iter_00000_step_00018_49_android.widget.TextView.png": [
+            "li_lss_bvt_and_02"
+        ], 
+        "iter_00000_step_00018_55_android.widget.TextView.png": [
+            "li_lss_bvt_and_03"
+        ], 
+        "iter_00000_step_00019_129_android.widget.LinearLayout.png": [
+            "ddl_username", 
+            "ddl_lss_bvt_and_04"
+        ], 
+        "iter_00000_step_00019_130_android.widget.TextView.png": [
+            "txt_lss_bvt_and_04"
+        ], 
+        "iter_00000_step_00019_62_android.widget.ImageView.png": [], 
+        "iter_00000_step_00020_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00020_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00020_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00020_37_android.widget.TextView.png": [
+            "li_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00020_43_android.widget.TextView.png": [
+            "li_lss_bvt_and_21"
+        ], 
+        "iter_00000_step_00020_49_android.widget.TextView.png": [
+            "li_lss_bvt_and_02"
+        ], 
+        "iter_00000_step_00020_55_android.widget.TextView.png": [
+            "li_lss_bvt_and_03"
+        ], 
+        "iter_00000_step_00020_61_android.widget.TextView.png": [
+            "li_lss_bvt_and_04"
+        ], 
+        "iter_00000_step_00020_73_android.widget.ImageView.png": [], 
+        "iter_00000_step_00021_112_android.widget.Button.png": [
+            "mi_settings"
+        ], 
+        "iter_00000_step_00021_52_android.widget.ImageView.png": [], 
+        "iter_00000_step_00021_65_android.widget.LinearLayout.png": [], 
+        "iter_00000_step_00021_78_android.widget.LinearLayout.png": [
+            "ddl_username", 
+            "ddl_lss_bvt_and_05"
+        ], 
+        "iter_00000_step_00021_79_android.widget.TextView.png": [
+            "txt_lss_bvt_and_05"
+        ], 
+        "iter_00000_step_00023_19_android.widget.TextView.png": [
+            "li_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00023_25_android.widget.TextView.png": [
+            "li_lss_bvt_and_11"
+        ], 
+        "iter_00000_step_00023_31_android.widget.TextView.png": [
+            "li_lss_bvt_and_14"
+        ], 
+        "iter_00000_step_00023_37_android.widget.TextView.png": [
+            "li_lss_bvt_and_20"
+        ], 
+        "iter_00000_step_00023_43_android.widget.TextView.png": [
+            "li_lss_bvt_and_21"
+        ], 
+        "iter_00000_step_00023_49_android.widget.TextView.png": [
+            "li_lss_bvt_and_02"
+        ], 
+        "iter_00000_step_00023_55_android.widget.TextView.png": [
+            "li_lss_bvt_and_03"
+        ], 
+        "iter_00000_step_00023_61_android.widget.TextView.png": [
+            "li_lss_bvt_and_04"
+        ], 
+        "iter_00000_step_00023_65_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00023_67_android.widget.TextView.png": [
+            "li_lss_bvt_and_05"
+        ], 
+        "iter_00000_step_00023_79_android.widget.ImageView.png": []
+    }, 
+    "screens": {}
+}

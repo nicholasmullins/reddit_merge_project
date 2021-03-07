@@ -1,0 +1,33 @@
+{
+    "elems": {
+        "iter_00000_step_00003_11_android.view.ViewGroup.png": [
+            "searchbar", 
+            "bottomnavbar"
+        ], 
+        "iter_00000_step_00003_81_android.widget.LinearLayout.png": [
+            "bottomnavbar"
+        ], 
+        "iter_00000_step_00003_86_android.widget.LinearLayout.png": [
+            "post_creation"
+        ], 
+        "iter_00000_step_00004_23_android.view.ViewGroup.png": [
+            "create_a_text_post"
+        ], 
+        "iter_00000_step_00004_5_android.widget.FrameLayout.png": [
+            "create_a_text_post"
+        ], 
+        "iter_00000_step_00005_18_android.view.ViewGroup.png": [
+            "choose_a_community"
+        ], 
+        "iter_00000_step_00006_19_android.view.ViewGroup.png": [
+            "my_profile_test"
+        ], 
+        "iter_00000_step_00007_15_android.widget.TextView.png": [
+            "post_text"
+        ], 
+        "iter_00000_step_00007_22_android.widget.EditText.png": [
+            "add_text"
+        ]
+    }, 
+    "screens": {}
+}

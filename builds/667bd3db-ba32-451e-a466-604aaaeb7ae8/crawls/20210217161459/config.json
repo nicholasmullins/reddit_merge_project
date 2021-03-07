@@ -1,0 +1,16 @@
+{
+    "app_id": "b435312b-34b1-41ee-b265-1283374fb078", 
+    "effective_num_tests": 0, 
+    "eyes_api_key": null, 
+    "is_interactive": true, 
+    "is_noop": false, 
+    "is_test": false, 
+    "max_iterations": 1, 
+    "max_steps": 150, 
+    "num_iterations": 1, 
+    "package": "app-alpha-release.apk-latest", 
+    "platform": "ANDROID", 
+    "rand_seed": 1613607233, 
+    "real_app_id": "b435312b-34b1-41ee-b265-1283374fb078", 
+    "test_wildcard": "*"
+}

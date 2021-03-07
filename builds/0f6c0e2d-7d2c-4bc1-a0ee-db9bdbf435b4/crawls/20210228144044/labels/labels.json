@@ -1,0 +1,17 @@
+{
+    "elems": {
+        "iter_00000_step_00000_22_android.widget.TextView.png": [
+            "btn_goto_log_in"
+        ], 
+        "iter_00000_step_00001_25_android.widget.FrameLayout.png": [
+            "inp_username"
+        ], 
+        "iter_00000_step_00001_28_android.widget.FrameLayout.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00001_38_android.widget.Button.png": [
+            "btn_continue"
+        ]
+    }, 
+    "screens": {}
+}

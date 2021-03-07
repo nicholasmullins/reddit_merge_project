@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00001_14_android.widget.Button.png": [
+            "btn_allow"
+        ], 
+        "iter_00000_step_00002_14_android.widget.Button.png": [
+            "btn_allow"
+        ], 
+        "iter_00000_step_00004_15_android.widget.ImageView.png": [
+            "icn_camera_more_options"
+        ], 
+        "iter_00000_step_00004_17_android.widget.FrameLayout.png": [
+            "btn_video_capture"
+        ], 
+        "iter_00000_step_00007_17_android.widget.TextView.png": [
+            "txt_lss_bvt_and_01"
+        ]
+    }, 
+    "screens": {}
+}

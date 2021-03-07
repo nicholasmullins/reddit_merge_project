@@ -1,0 +1,17 @@
+{
+    "desiredCaps": {
+        "app": "/Users/bot/Desktop/app-alpha-release.apk", 
+        "appPackage": "com.reddit.frontpage.alpha", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "device_id": "99041FFAZ004ZH", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "physical device", 
+    "deviceHeight": 2280, 
+    "deviceWidth": 1080, 
+    "hostPlatformRelease": "18.7.0", 
+    "hostPlatformSystem": "Darwin"
+}

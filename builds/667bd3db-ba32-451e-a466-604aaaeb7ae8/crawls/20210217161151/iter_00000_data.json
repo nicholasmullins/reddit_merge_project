@@ -1,0 +1,14 @@
+{
+    "desiredCaps": {
+        "app": "/Users/parineeta.sinha/Downloads/app-alpha-release-latest.apk", 
+        "appPackage": "app-alpha-release.apk-latest", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "Nexus 5", 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}

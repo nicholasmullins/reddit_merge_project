@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00001_29_android.widget.Button.png": [
+            "btn_continue_as"
+        ], 
+        "iter_00000_step_00002_82_android.widget.LinearLayout.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00002_83_android.widget.ImageView.png": [
+            "icn_pencil"
+        ]
+    }, 
+    "screens": {}
+}

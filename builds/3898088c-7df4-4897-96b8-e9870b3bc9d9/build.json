@@ -1,0 +1,9 @@
+{
+    "_id": "3898088c-7df4-4897-96b8-e9870b3bc9d9", 
+    "app": "/Users/bot/test_ai/apps/b435312b-34b1-41ee-b265-1283374fb078/builds/3898088c-7df4-4897-96b8-e9870b3bc9d9/app/app-alpha-release.apk-02.27.21.apk", 
+    "app_id": "b435312b-34b1-41ee-b265-1283374fb078", 
+    "created": "2021-03-07 00:27:04.518358", 
+    "package": "app-alpha-release.apk", 
+    "platform": "android", 
+    "version": "02.27.21"
+}

@@ -1,0 +1,62 @@
+{
+    "elems": {
+        "iter_00000_step_00001_11_android.view.ViewGroup.png": [
+            "searchbar"
+        ], 
+        "iter_00000_step_00002_47_android.view.ViewGroup.png": [
+            "pan2community"
+        ], 
+        "iter_00000_step_00003_38_androidx.viewpager.widget.ViewPager.png": [
+            "topbroadcast"
+        ], 
+        "iter_00000_step_00004_15_android.widget.Button.png": [
+            "livefrominternetacceptpopup"
+        ], 
+        "iter_00000_step_00004_4_android.widget.FrameLayout.png": [
+            "livefrominternetpopup"
+        ], 
+        "iter_00000_step_00005_32_android.widget.FrameLayout.png": [
+            "rpanlivestreamscreen"
+        ], 
+        "iter_00000_step_00006_60_android.widget.ImageView.png": [
+            "startbroadcastbutton"
+        ], 
+        "iter_00000_step_00007_1_android.widget.LinearLayout.png": [
+            "enablecamerapopup"
+        ], 
+        "iter_00000_step_00007_8_android.widget.TextView.png": [
+            "enablecamera"
+        ], 
+        "iter_00000_step_00008_15_android.widget.Button.png": [
+            "allowcameraaccess"
+        ], 
+        "iter_00000_step_00009_14_android.view.ViewGroup.png": [
+            "selectpan2"
+        ], 
+        "iter_00000_step_00010_9_android.widget.Button.png": [
+            "continuetostartbroadcast"
+        ], 
+        "iter_00000_step_00011_16_android.widget.Button.png": [
+            "clickonrpanpolicyaccept"
+        ], 
+        "iter_00000_step_00012_10_android.widget.TextView.png": [
+            "continuetostartbroadcast"
+        ], 
+        "iter_00000_step_00012_12_android.widget.EditText.png": [
+            "addtexttobroadcast"
+        ], 
+        "iter_00000_step_00013_19_android.widget.TextView.png": [
+            "startbroadcastgolive"
+        ], 
+        "iter_00000_step_00013_9_android.widget.ImageView.png": [
+            "endbroadcast"
+        ], 
+        "iter_00000_step_00014_16_android.widget.Button.png": [
+            "taponend"
+        ], 
+        "iter_00000_step_00015_13_android.widget.TextView.png": [
+            "successelementshown"
+        ]
+    }, 
+    "screens": {}
+}

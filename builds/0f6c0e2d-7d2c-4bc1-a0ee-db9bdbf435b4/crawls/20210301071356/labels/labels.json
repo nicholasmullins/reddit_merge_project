@@ -1,0 +1,32 @@
+{
+    "elems": {
+        "iter_00000_step_00012_23_android.widget.EditText.png": [
+            "msg_video_post"
+        ], 
+        "iter_00000_step_00018_31_android.widget.ImageButton.png": [
+            "btn_stop_video_capture"
+        ], 
+        "iter_00000_step_00020_32_android.widget.ImageButton.png": [
+            "btn_video_retake"
+        ], 
+        "iter_00000_step_00020_36_android.widget.ImageButton.png": [
+            "btn_video_play"
+        ], 
+        "iter_00000_step_00022_9_androidx.appcompat.widget.LinearLayoutCompat.png": [
+            "btn_next"
+        ], 
+        "iter_00000_step_00023_23_android.widget.EditText.png": [
+            "msg_video_post"
+        ], 
+        "iter_00000_step_00024_14_androidx.appcompat.widget.LinearLayoutCompat.png": [
+            "btn_post"
+        ], 
+        "iter_00000_step_00025_18_android.widget.TextView.png": [
+            "txt_lss_bvt_and_01"
+        ], 
+        "iter_00000_step_00027_36_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00027_37_android.widget.ImageButton.png": [], 
+        "iter_00000_step_00027_39_android.view.View.png": []
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,37 @@
+{
+    "elems": {
+        "iter_00000_step_00000_20_android.widget.TextView.png": [
+            "btn_goto_log_in"
+        ], 
+        "iter_00000_step_00006_34_android.widget.Button.png": [
+            "btn_continue"
+        ], 
+        "iter_00000_step_00011_30_android.widget.TextView.png": [
+            "li_add_account"
+        ], 
+        "iter_00000_step_00013_29_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00013_30_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00014_26_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00014_27_android.widget.EditText.png": [
+            "inp_username"
+        ], 
+        "iter_00000_step_00014_39_android.widget.Button.png": [
+            "btn_continue"
+        ], 
+        "iter_00000_step_00017_25_android.widget.FrameLayout.png": [
+            "inp_username"
+        ], 
+        "iter_00000_step_00017_37_android.widget.Button.png": [
+            "btn_continue"
+        ], 
+        "iter_00000_step_00018_15_android.widget.TextView.png": [
+            "ttl_log_in"
+        ], 
+        "iter_00000_step_00018_39_android.widget.Button.png": [
+            "btn_continue"
+        ]
+    }, 
+    "screens": {}
+}

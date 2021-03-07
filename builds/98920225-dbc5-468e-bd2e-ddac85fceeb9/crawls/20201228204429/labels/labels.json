@@ -1,0 +1,89 @@
+{
+    "elems": {
+        "iter_00000_step_00000_26_android.widget.ImageView.png": [
+            "icn_more_menu"
+        ], 
+        "iter_00000_step_00000_42_android.widget.TextView.png": [
+            "ddl_filters_new_posts", 
+            "ddl_filters"
+        ], 
+        "iter_00000_step_00000_47_android.widget.TextView.png": [
+            "ttl_top_broadcast"
+        ], 
+        "iter_00000_step_00001_44_android.widget.TextView.png": [
+            "ddl_filters_new_posts"
+        ], 
+        "iter_00000_step_00001_55_android.widget.ImageView.png": [
+            "vid_live_stream"
+        ], 
+        "iter_00000_step_00002_24_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00002_28_android.widget.ImageView.png": [
+            "icn_more_menu"
+        ], 
+        "iter_00000_step_00002_44_android.widget.TextView.png": [
+            "ddl_filters", 
+            "ddl_filters_hot_posts"
+        ], 
+        "iter_00000_step_00002_49_android.widget.TextView.png": [
+            "ttl_top_broadcast"
+        ], 
+        "iter_00000_step_00002_54_android.widget.FrameLayout.png": [
+            "vid_live_stream"
+        ], 
+        "iter_00000_step_00002_55_android.widget.ImageView.png": [
+            "vid_live_stream"
+        ], 
+        "iter_00000_step_00003_106_android.widget.FrameLayout.png": [
+            "btn_live_stream"
+        ], 
+        "iter_00000_step_00003_107_android.widget.ImageView.png": [
+            "btn_live_stream"
+        ], 
+        "iter_00000_step_00003_126_android.widget.LinearLayout.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00003_127_android.widget.ImageView.png": [
+            "icn_pencil"
+        ], 
+        "iter_00000_step_00003_16_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00003_20_android.widget.ImageView.png": [
+            "icn_more_menu"
+        ], 
+        "iter_00000_step_00003_40_android.widget.ImageView.png": [
+            "icn_upvote_not_selected"
+        ], 
+        "iter_00000_step_00003_42_android.widget.ImageView.png": [
+            "icn_downvote_not_selected"
+        ], 
+        "iter_00000_step_00003_56_android.widget.FrameLayout.png": [
+            "btn_live_stream"
+        ], 
+        "iter_00000_step_00003_57_android.widget.ImageView.png": [
+            "btn_live_stream"
+        ], 
+        "iter_00000_step_00003_63_android.widget.ImageView.png": [
+            "icn_upvote_not_selected"
+        ], 
+        "iter_00000_step_00003_65_android.widget.ImageView.png": [
+            "icn_downvote_not_selected"
+        ], 
+        "iter_00000_step_00003_81_android.widget.FrameLayout.png": [
+            "btn_live_stream"
+        ], 
+        "iter_00000_step_00003_82_android.widget.ImageView.png": [
+            "btn_live_stream"
+        ], 
+        "iter_00000_step_00003_88_android.widget.ImageView.png": [
+            "icn_upvote_not_selected"
+        ], 
+        "iter_00000_step_00003_90_android.widget.ImageView.png": [
+            "icn_downvote_not_selected"
+        ], 
+        "iter_00000_step_00003_95_android.widget.ImageView.png": []
+    }, 
+    "screens": {}
+}

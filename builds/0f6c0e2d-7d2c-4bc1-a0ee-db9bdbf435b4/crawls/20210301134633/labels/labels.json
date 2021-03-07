@@ -1,0 +1,41 @@
+{
+    "elems": {
+        "iter_00000_step_00001_16_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00004_24_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00005_12_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00006_104_android.view.ViewGroup.png": [
+            "icn_reddit_home"
+        ], 
+        "iter_00000_step_00006_106_android.view.ViewGroup.png": [
+            "icn_browse"
+        ], 
+        "iter_00000_step_00006_110_android.widget.ImageView.png": [
+            "icn_plus"
+        ], 
+        "iter_00000_step_00006_13_android.view.ViewGroup.png": [
+            "btn_menu_view"
+        ], 
+        "iter_00000_step_00006_15_android.widget.FrameLayout.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00006_17_android.widget.TextView.png": [
+            "inp_search", 
+            "txt_search"
+        ], 
+        "iter_00000_step_00006_26_android.widget.LinearLayout.png": [
+            "tab_home"
+        ], 
+        "iter_00000_step_00006_28_android.widget.LinearLayout.png": [
+            "tab_popular"
+        ], 
+        "iter_00000_step_00006_50_android.view.View.png": [], 
+        "iter_00000_step_00006_70_android.widget.ImageView.png": []
+    }, 
+    "screens": {}
+}
